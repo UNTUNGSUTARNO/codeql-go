@@ -4,3 +4,6 @@
 **/*.qhelp @shati-patel
 # Exclude experimental
 **/experimental/**/*.qhelp @github/codeql-go
+Open
+Click
+Clam
